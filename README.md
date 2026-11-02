@@ -421,12 +421,17 @@ footer p {
 ```
 
 ## OUTPUT
-1. Home Page and Products
+### 1. Home Page and Products
 
-2. Products, About and Contact
+<img src="./output/homepage_products.png" width="700">
 
-3. User Account and Footer
+### 2. Products, About and Contact
 
+<img src="./output/products_about_contact.png" width="700">
+
+### 3. User Account and Footer
+
+<img src="./output/account_footer.png" width="700">
 
 
 ## RESULT
